@@ -55,6 +55,5 @@
 ## Contact
 
 📧 hykari95117@gmail.com  
-🔗 [Portfolio](https://your-portfolio.com) | [Blog](https://your-blog.com)
-
+<!-- 🔗 [Portfolio](https://your-portfolio.com) | [Blog](https://your-blog.com) -->
 ---
