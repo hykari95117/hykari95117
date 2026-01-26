@@ -45,6 +45,7 @@
 
 ## Currently
 - 🌱 Spring Boot 기반 RESTful API 설계 학습 중
+- n8n 기반 자동화 workflow 구축 학습
 
 ## Contact
 
