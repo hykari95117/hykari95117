@@ -43,10 +43,12 @@
 <img src="https://img.shields.io/badge/Claude_Code-181818?style=for-the-badge&logo=anthropic&logoColor=D4976C">
 <img src="https://img.shields.io/badge/Gemini_CLI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
 
-
 ## Currently
 - 🌱 Spring Boot 기반 RESTful API 설계 학습 중
 - n8n 기반 자동화 workflow 구축 학습
+
+## Interest
+![Godot Engine](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat)
 
 ## Contact
 
