@@ -4,6 +4,7 @@
   - Back-end
   - Front-end
   - DataBase
+  - AI
 
 ## Tech Stack
 
